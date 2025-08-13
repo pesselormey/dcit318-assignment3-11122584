@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "USB-C Cable",
+    "Quantity": 120,
+    "DateAdded": "2025-08-13T23:37:55.5795772Z"
+  },
+  {
+    "Id": 2,
+    "Name": "Wireless Mouse",
+    "Quantity": 45,
+    "DateAdded": "2025-08-13T23:37:55.5799496Z"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 30,
+    "DateAdded": "2025-08-13T23:37:55.5799498Z"
+  },
+  {
+    "Id": 4,
+    "Name": "External SSD 1TB",
+    "Quantity": 15,
+    "DateAdded": "2025-08-13T23:37:55.5799499Z"
+  },
+  {
+    "Id": 5,
+    "Name": "Webcam 1080p",
+    "Quantity": 25,
+    "DateAdded": "2025-08-13T23:37:55.57995Z"
+  }
+]
