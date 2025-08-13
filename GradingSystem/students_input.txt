@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,Bob Johnson,77
+103,Charlie Lee,65
+104,Diana Prince,58
+105,Edward Nigma,43

@@ -1,0 +1,15 @@
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\bin\Debug\net9.0\GradingSystem.exe
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\bin\Debug\net9.0\GradingSystem.deps.json
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\bin\Debug\net9.0\GradingSystem.runtimeconfig.json
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\bin\Debug\net9.0\GradingSystem.dll
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\bin\Debug\net9.0\GradingSystem.pdb
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.AssemblyInfo.cs
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.sourcelink.json
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.dll
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\refint\GradingSystem.dll
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.pdb
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\GradingSystem.genruntimeconfig.cache
+C:\Users\3lorm\Desktop\dcit318-assignment3-11122584\GradingSystem\obj\Debug\net9.0\ref\GradingSystem.dll
